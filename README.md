@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bffv" alt="bffv" /></a> </p>
 
-- 🔭 I’m currently working as a **Data/Knowledge Engineer at IMFD (Millennium Institute for Foundational Research on Data)**
+- 🔭 I’m currently working as a **Knowledge & Data Engineer at IMFD (Millennium Institute for Foundational Research on Data)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
